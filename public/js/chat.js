@@ -33,7 +33,7 @@
     };
     toastr.success(data.message);
     message.disabled = false;
-    message.placeholder = "Enter the message here...";
+    message.placeholder = "What's on your mind?...";
     message.focus();
     resetTimer();
   });
