@@ -28,7 +28,7 @@
     "hbs": "^4.0.1",
     "moment": "^2.20.1",
     "pm2": "^2.10.1",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "uniqid": "^4.1.1"
   },
   "devDependencies": {
