@@ -1,12 +1,12 @@
 {
-  "name": "omeclone",
-  "description": "Clone of omegle.com",
+  "name": "auxilium",
+  "description": "Let's you to talk to someone about their mental health and feelings",
   "main": "index.js",
   "authors": [
-    "Sumedh Nimkarde <blesssumedh@gmail.com>"
+    "Ashiq Rahman <v.p.ashiq9790@gmail.com>"
   ],
-  "license": "ISC",
-  "homepage": "https://github.com/wdlsvnit/Omeclone",
+  "license": "Apache2",
+  "homepage": "https://github.com/ashiqrahman10/auxilium/",
   "private": true,
   "ignore": [
     "**/.*",
